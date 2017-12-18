@@ -1,5 +1,5 @@
 <template lang="pug" >
-  .af="{{msg}}"
+  .af="\{{msg}}"
 </template>
 
 <script>
