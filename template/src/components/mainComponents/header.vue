@@ -1,7 +1,7 @@
 <template lang="pug">
       <v-toolbar dense>
         <v-toolbar-side-icon></v-toolbar-side-icon>
-        <v-toolbar-title>{{title}}</v-toolbar-title>
+        <v-toolbar-title>\{{title}}</v-toolbar-title>
         <v-spacer></v-spacer>     
         <v-btn icon @click=ok>
           v-icon search
